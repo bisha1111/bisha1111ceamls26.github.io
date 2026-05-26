@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Bishop Akalusi
 display_name: Bishop Akalusi                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
