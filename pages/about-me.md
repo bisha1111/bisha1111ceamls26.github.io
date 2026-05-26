@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Bishop Akalusi
   role: Junior, Computer Science
-  image: /assets/images/profile.svg
+  image: assets/PICTURE.png
   LinkedIn: https://linkedin.com/in/akalusibishop
   bio: |
     Hi! I'm Bishop, a Computer Science student in the CEAMLS SAIRI Summer Research program.
