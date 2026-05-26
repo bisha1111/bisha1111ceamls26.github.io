@@ -1,19 +1,19 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Bishop Akalusi                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
   - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
+  - "🔬 Interested in Ai and Machine Learning
   - "📍 Based in Baltimore, MD"
   - "🚀 I like pineapples"
 
-linkedin: https://www.linkedin.com/in/example
-image: /assets/images/profile.svg
+linkedin: https://linkedin.com/in/akalusibishop
+image: /assets/PICTURE.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
