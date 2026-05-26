@@ -8,7 +8,7 @@ motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
   - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Ai and Machine Learning
+  - "🔬 Interested in Ai and Machine Learning"
   - "📍 Based in Baltimore, MD"
   - "🚀 I like pineapples"
 
