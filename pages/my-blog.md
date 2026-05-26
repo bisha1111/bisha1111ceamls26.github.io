@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: My Blog
+title: Akalusi Bishop
 permalink: /my-blog.html
 ---
