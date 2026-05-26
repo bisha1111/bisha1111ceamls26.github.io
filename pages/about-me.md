@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Bishop Akalusi
   role: Junior, Computer Science
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  LinkedIn: https://linkedin.com/in/akalusibishop
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Bishop, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
     My research interests sit at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
