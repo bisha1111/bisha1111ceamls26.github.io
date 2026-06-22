@@ -115,5 +115,7 @@ grad_mentor:
 faculty_mentor:
   name: "Dr. Saroj K. Pramanik"
   title: "Associate Professor of Biology and Faculty Research Mentor"
-  website: "https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik"
+  Website: "https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik"
+```
+
 ---
