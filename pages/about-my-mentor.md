@@ -1,31 +1,42 @@
 ---
 layout: mentor
-title: About My Mentors
+title: "About My Mentors"
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: "Blessing Isoyiza Adeika"
+  title: "Doctoral Researcher and Graduate Research Mentor"
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
+  researchgate: https://www.researchgate.net/profile/Blessing-Adeika
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Blessing Isoyiza Adeika is my graduate mentor for the DermaBridge research
+    project at Morgan State University. Her research background includes artificial
+    intelligence, machine learning, deep learning, computer vision, and the
+    development of technology that can address real-world problems.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Throughout the program, Blessing has guided me through different stages of our
+    research, from preparing datasets and training deep learning models to comparing
+    model performance and understanding our results. She has always been patient
+    when answering my questions and has encouraged me to think carefully instead of
+    simply completing each task.
+
+    Her mentorship has helped me become more confident in research, improve my
+    technical skills, and better understand how artificial intelligence can be used
+    responsibly in healthcare. I am grateful for her encouragement, patience, and
+    continued support throughout my experience with the DermaBridge project.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: "Dr. Saroj Pramanik"
+  title: "Faculty Research Mentor"
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Saroj Pramanik is the faculty mentor for the DermaBridge project. His
+    leadership has guided our work toward developing a trustworthy multimodal
+    artificial intelligence system for skin lesion screening, risk assessment,
+    and clinical referral.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Through his guidance, I have learned more about responsible AI research,
+    machine learning model evaluation, fairness in medical technology, and the
+    importance of considering the real-world impact of the systems we develop.
 ---
