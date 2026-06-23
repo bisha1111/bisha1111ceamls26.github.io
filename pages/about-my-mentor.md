@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: "Blessing Isoyiza Adeika"
   title: "Doctoral Researcher and Graduate Research Mentor"
-  image: /assets/images/graduate-student-mentor.svg
+  image: assets/images/blessing a mentor 2026 pic.jpg
   website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
   researchgate: https://www.researchgate.net/profile/Blessing-Adeika
   bio: |
