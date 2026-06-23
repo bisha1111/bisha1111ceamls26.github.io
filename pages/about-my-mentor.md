@@ -29,6 +29,7 @@ graduate_mentor:
 faculty_mentor:
   name: "Dr. Saroj Pramanik"
   title: "Faculty Research Mentor"
+  website: https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
   image: /assets/images/faculty-mentor.svg
   bio: |
     Dr. Saroj Pramanik is the faculty mentor for the DermaBridge project. His
