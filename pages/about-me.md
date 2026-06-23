@@ -30,10 +30,10 @@ about:
       description: Sci-fi novels and design essays — both equally inspiring.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: assets/images/hiking.jpg
       caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: assets/images/reading.jpg
+      caption: An afternoon reading session.
+    - image: assets/images/chess.jpg 
+      caption: chess! My favourite game.
 ---
